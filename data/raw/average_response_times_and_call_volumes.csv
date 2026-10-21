@@ -1,0 +1,243 @@
+CACC Location,Reporting Year,Average Response Time,Call Volume,Organization ID
+Cambridge,2023,2 min 20 sec,"138,103",10921
+Georgian,2023,2 min 36 sec,"155,725",10930
+Hamilton,2023,2 min 26 sec,"145,278",10920
+Kenora,2023,1 min 51 sec,"19,292",10961
+Kingston,2023,2 min 4 sec,"121,491",10942
+Lindsay,2023,2 min 15 sec,"87,021",10934
+London,2023,2 min 27 sec,"202,295",10910
+Mississauga,2023,2 min 44 sec,"152,364",10454
+Muskoka,2023,1 min 39 sec,"16,293",10958
+Niagara,2023,TBD,TBD,10923
+North Bay,2023,1 min 55 sec,"25,372",10953
+Oshawa,2023,2 min 12 sec,"111,798",10931
+Ottawa,2023,2 min 21 sec,"148,877",10940
+Parry Sound,2023,1 min 48 sec,"7,119",10959
+Renfrew,2023,2 min 21 sec,"29,345",10941
+Sault Ste. Marie,2023,1 min 53 sec,"23,986",10951
+Sudbury,2023,2 min 8 sec,"55,450",10950
+Thunder Bay,2023,2 min 31 sec,"46,180",10960
+Timmins,2023,2 min 2 sec,"14,148",10952
+Toronto,2023,TBD,TBD,10933
+Wallaceburg,2023,2 min 1 sec,"55,317",10911
+Windsor,2023,1 min 51 sec,"104,299",10912
+Cambridge,2022,2 min 8 sec,"196,710",10921
+Georgian,2022,2 min 30 sec,"154,167",10930
+Hamilton,2022,2 min 12 sec,"154,121",10920
+Kenora,2022,1 min 48 sec,"19,882",10961
+Kingston,2022,2 min 7 sec,"120,577",10942
+Lindsay,2022,2 min 18 sec,"87,320",10934
+London,2022,2 min 19 sec,"213,619",10910
+Mississauga,2022,2 min 38 sec,"164,874",10454
+Muskoka,2022,1 min 34 sec,"16,752",10958
+Niagara,2022,1 min 19 sec,"68,867",10923
+North Bay,2022,1 min 42 sec,"27,372",10953
+Oshawa,2022,2 min 17 sec,"117,731",10931
+Ottawa,2022,2 min 22 sec,"138,705",10940
+Parry Sound,2022,2 min 5 sec,"7,255",10959
+Renfrew,2022,2 min 14 sec,"30,047",10941
+Sault Ste. Marie,2022,1 min 47 sec,"23,486",10951
+Sudbury,2022,1 min 59 sec,"56,128",10950
+Thunder Bay,2022,2 min 27 sec,"45,526",10960
+Timmins,2022,2 min 4 sec,"13,898",10952
+Toronto,2022,2 min 4 sec,"320,324",10933
+Wallaceburg,2022,1 min 56 sec,"57,040",10911
+Windsor,2022,1 min 38 sec,"102,473",10912
+Cambridge,2021,2 min 7 sec,"178,621",10921
+Georgian,2021,2 min 21 sec,"146,642",10930
+Hamilton,2021,2 min 6 sec,"135,861",10920
+Kenora,2021,1 min 41 sec,"19,137",10961
+Kingston,2021,1 min 59 sec,"112,056",10942
+Lindsay,2021,2 min 4 sec,"85,733",10934
+London,2021,2 min 11 sec,"197,646",10910
+Mississauga,2021,2 min 33 sec,"159,181",10454
+Muskoka,2021,1 min 37 sec,"15,775",10958
+Niagara,2021,1 min 20 sec,"66,862",10923
+North Bay,2021,1 min 45 sec,"24,718",10953
+Oshawa,2021,1 min 58 sec,"104,988",10931
+Ottawa,2021,2 min 14 sec,"129,106",10940
+Parry Sound,2021,2 min 2 sec,"6,686",10959
+Renfrew,2021,2 min 3 sec,"27,475",10941
+Sault Ste. Marie,2021,1 min 44 sec,"22,743",10951
+Sudbury,2021,1 min 51 sec,"71,099",10950
+Thunder Bay,2021,2 min 6 sec,"46,395",10960
+Timmins,2021,2 min 0 sec,"12,937",10952
+Toronto,2021,1 min 54 sec,"318,766",10933
+Wallaceburg,2021,1 min 50 sec,"54,845",10911
+Windsor,2021,1 min 36 sec,"96,858",10912
+Cambridge,2020,2 min 12 sec,"169,239",10921
+Georgian,2020,2 min 4 sec,"146,166",10930
+Hamilton,2020,2 min 4 sec,"134,662",10920
+Kenora,2020,1 min 35 sec,"20,893",10961
+Kingston,2020,1 min 58 sec,"111,913",10942
+Lindsay,2020,1 min 54 sec,"77,954",10934
+London,2020,2 min 3 sec,"189,647",10910
+Mississauga,2020,2 min 20 sec,"157,083",10454
+Muskoka,2020,1 min 46 sec,"16,404",10958
+Niagara,2020,1 min 15 sec,"60,408",10923
+North Bay,2020,1 min 41 sec,"29,237",10953
+Oshawa,2020,1 min 51 sec,"102,969",10931
+Ottawa,2020,2 min 18 sec,"142,125",10940
+Parry Sound,2020,2 min 4 sec,"6,299",10959
+Renfrew,2020,2 min 0 sec,"26,876",10941
+Sault Ste. Marie,2020,1 min 45 sec,"24,017",10951
+Sudbury,2020,1 min 48 sec,"74,326",10950
+Thunder Bay,2020,2 min 2 sec,"46,291",10960
+Timmins,2020,1 min 53 sec,"19,071",10952
+Toronto,2020,1 min 48 sec,"296,956",10933
+Wallaceburg,2020,1 min 47 sec,"52,096",10911
+Windsor,2020,1 min 39 sec,"100,262",10912
+Cambridge,2019,2 min 45 sec ,"169,245",10921
+Georgian,2019,2 min 40 sec ,"146,119",10930
+Hamilton,2019,2 min 22 sec ,"134,673",10920
+Kenora,2019,2 min 4 sec ,"22,829",10961
+Kingston,2019,2 min 4 sec ,"111,916",10942
+Lindsay,2019,2 min 7 sec ,"78,321",10934
+London,2019,2 min 25 sec ,"189,593",10910
+Mississauga,2019,2 min 33 sec ,"157,187",10454
+Muskoka,2019,1 min 48 sec ,"16,412",10958
+Niagara,2019,1 min 37 sec ,"63,528",10923
+North Bay,2019,1 min 47 sec ,"30,153",10953
+Oshawa,2019,2 min 2 sec ,"103,000",10931
+Ottawa,2019,2 min 32 sec ,"142,154",10940
+Parry Sound,2019,1 min 59 sec ,"6,336",10959
+Renfrew,2019,2 min 20 sec ,"28,478",10941
+Sault Ste. Marie,2019,2 min 14 sec ,"24,385",10951
+Sudbury,2019,2 min 0 sec ,"74,575",10950
+Thunder Bay,2019,2 min 2 sec ,"47,126",10960
+Timmins,2019,2 min 18 sec ,"19,071",10952
+Toronto,2019,1 min 46 sec ,"330,546",10933
+Wallaceburg,2019,2 min 0 sec ,"53,474",10911
+Windsor,2019,1 min 51 sec ,"100,394",10912
+Cambridge,2018,2 min 33 sec,"170,404",10921
+Georgian,2018,2 min 40 sec,"144,715",10930
+Hamilton,2018,2 min 24 sec,"130,981",10920
+Kenora,2018,1 min 47 sec,"21,173",10961
+Kingston,2018,2 min 4 sec,"111,348",10942
+Lindsay,2018,2 min 13 sec,"75,443",10934
+London,2018,2 min 19 sec,"185,176",10910
+Mississauga,2018,2 min 43 sec,"151,853",10454
+Muskoka,2018,1 min 44 sec,"16,844",10958
+Niagara,2018,1 min 31 sec,"63,457",10923
+North Bay,2018,1 min 48 sec,"30,196",10953
+Oshawa,2018,2 min 3 sec,"121,157",10931
+Ottawa,2018,2 min 26 sec,"139,221",10940
+Parry Sound,2018,1 min 53 sec,"6,512",10959
+Renfrew,2018,2 min 14 sec,"27,428",10941
+Sault Ste. Marie,2018,2 min 16 sec,"24,136",10951
+Sudbury,2018,2 min 0 sec,"73,020",10950
+Thunder Bay,2018,1 min 59 sec,"46,549",10960
+Timmins,2018,2 min 7 sec,"17,130",10952
+Toronto,2018,1 min 45 sec,"325,140",10933
+Wallaceburg,2018,1 min 58 sec,"51,653",10911
+Windsor,2018,1 min 54 sec,"101,612",10912
+Cambridge,2017,2 min 38 sec ,"170,337",10921
+Georgian,2017, 2 min 36 sec ,"136,140",10930
+Hamilton,2017,2 min 35 sec ,"128,593",10920
+Kenora,2017, 2 min 25 sec ,"20,577",10961
+Kingston,2017,1 min 55 sec ,"106,307",10942
+Lindsay,2017,2 min 9 sec ,"72,342",10934
+London ,2017,2 min 15 sec ,"182,790",10910
+Mississauga,2017,2 min 24 sec ,"143,678",10454
+Muskoka,2017,1 min 43 sec ,"17,129",10958
+Niagara,2017,1 min 30 sec ,"61,826",10923
+North Bay,2017,1 min 48 sec ,"28,437",10953
+Oshawa,2017,1 min 58 sec ,"112,713",10931
+Ottawa,2017,2 min 34 sec ,"132,966",10940
+Parry Sound ,2017,1 min 49 sec ,"6,368",10959
+Renfrew,2017,2 min 13 sec ,"26,320",10941
+Sault Ste. Marie,2017,2 min 19 sec ,"23,539",10951
+Sudbury,2017, 1 min 58 sec ,"73,573",10950
+Thunder Bay,2017,2 min 5 sec ,"46,522",10960
+Timmins,2017,2 min 0 sec ,"17,016",10952
+Toronto,2017,3 min 9 sec ,"305,047",10933
+Wallaceburg,2017,1 min 54 sec ,"47,831",10911
+Windsor,2017,2 min 2 sec ,"106,197",10912
+Cambridge,2016,2 min 35 sec ,"158,271",10921
+Georgian,2016,2 min 26 sec ,"129,496",10930
+Hamilton,2016,2 min 14 sec ,"120,217",10920
+Kenora,2016,2 min 27 sec ,"19,102",10961
+Kingston,2016,1 min 59 sec,"102,546",10942
+Lindsay,2016,2 min 8 sec ,"69,550",10934
+London ,2016,2 min 12 sec ,"169,309",10910
+Mississauga,2016,2 min 31 sec ,"135,119",10454
+Muskoka,2016,1 min 38 sec ,"15,579",10958
+Niagara,2016,1 min 24 sec ,"58,084",10923
+North Bay,2016,1 min 46 sec ,"30,651",10953
+Oshawa,2016,1 min 56 sec ,"105,771",10931
+Ottawa,2016,2 min 22 sec ,"134,000",10940
+Parry Sound ,2016,1 min 57 sec ,"6,005",10959
+Renfrew,2016,2 min 6 sec ,"26,102",10941
+Sault Ste. Marie,2016,2 min 17 sec ,"21,848",10951
+Sudbury,2016,2 min 9 sec ,"72,496",10950
+Thunder Bay,2016,1 min 49 sec  ,"30,398",10960
+Timmins,2016,1 min 57 sec ,"19,198",10952
+Toronto,2016,3 min 1 sec ,"288,613",10933
+Wallaceburg,2016,1 min 53 sec ,"44,695",10911
+Windsor,2016,2 min 4 sec  ,"96,580",10912
+Cambridge,2015,2 min 31 sec ,"148,422",10921
+Georgian,2015,2 min 18 sec ,"124,078",10930
+Hamilton,2015,2 min 8 sec ,"114,458",10920
+Kenora,2015,2 min 38 sec ,"18,581",10961
+Kingston,2015,1 min 58 sec ,"97,960",10942
+Lindsay,2015,2 min,"66,451",10934
+London ,2015,2 min 8 sec ,"158,221",10910
+Mississauga,2015,2 min 23 sec ,"125,777",10454
+Muskoka,2015,1 min 35 sec ,"16,685",10958
+Niagara,2015,1 min 22 sec ,"54,582",10923
+North Bay,2015,1 min 47 sec ,"32,224",10953
+Oshawa,2015,1 min 48 sec ,"95,648",10931
+Ottawa,2015,2 min 15 sec,"128,802",10940
+Parry Sound ,2015,2 min 6 sec ,"5,541",10959
+Renfrew,2015,2 min 6 sec ,"25,974",10941
+Sault Ste. Marie,2015,1 min 45 sec ,"21,107",10951
+Sudbury,2015,2 min 5 sec ,"65,258",10950
+Thunder Bay,2015,1 min 47 sec  ,"29,459",10960
+Timmins,2015,1 min 59 sec ,"20,322",10952
+Toronto,2015,3 min 8 sec ,"281,899",10933
+Wallaceburg,2015,1 min 49 sec ,"42,413",10911
+Windsor,2015,2 min 0 sec ,"99,314",10912
+Cambridge,2014,No data available,No data available,10921
+Georgian,2014,No data available,No data available,10930
+Hamilton,2014,No data available,No data available,10920
+Kenora,2014,No data available,No data available,10961
+Kingston,2014,No data available,No data available,10942
+Lindsay,2014,No data available,No data available,10934
+London ,2014,No data available,No data available,10910
+Mississauga,2014,No data available,No data available,10454
+Muskoka,2014,No data available,No data available,10958
+Niagara,2014,No data available,No data available,10923
+North Bay,2014,No data available,No data available,10953
+Oshawa,2014,No data available,No data available,10931
+Ottawa,2014,No data available,No data available,10940
+Parry Sound ,2014,No data available,No data available,10959
+Renfrew,2014,No data available,No data available,10941
+Sault Ste. Marie,2014,No data available,No data available,10951
+Sudbury,2014,No data available,No data available,10950
+Thunder Bay,2014,No data available,No data available,10960
+Timmins,2014,No data available,No data available,10952
+Toronto,2014,No data available,No data available,10933
+Wallaceburg,2014,No data available,No data available,10911
+Windsor,2014,No data available,No data available,10912
+Cambridge,2013,No data available,No data available,10921
+Georgian,2013,No data available,No data available,10930
+Hamilton,2013,No data available,No data available,10920
+Kenora,2013,No data available,No data available,10961
+Kingston,2013,No data available,No data available,10942
+Lindsay,2013,No data available,No data available,10934
+London ,2013,No data available,No data available,10910
+Mississauga,2013,No data available,No data available,10454
+Muskoka,2013,No data available,No data available,10958
+Niagara,2013,No data available,No data available,10923
+North Bay,2013,No data available,No data available,10953
+Oshawa,2013,No data available,No data available,10931
+Ottawa,2013,No data available,No data available,10940
+Parry Sound ,2013,No data available,No data available,10959
+Renfrew,2013,No data available,No data available,10941
+Sault Ste. Marie,2013,No data available,No data available,10951
+Sudbury,2013,No data available,No data available,10950
+Thunder Bay,2013,No data available,No data available,10960
+Timmins,2013,No data available,No data available,10952
+Toronto,2013,No data available,No data available,10933
+Wallaceburg,2013,No data available,No data available,10911
+Windsor,2013,No data available,No data available,10912
